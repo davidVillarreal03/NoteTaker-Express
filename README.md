@@ -19,11 +19,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-User must follow the render link here to access this application
+User must follow the render [link](https://notetaker-express-2.onrender.com/) here to access this application
 
 ## Usage
 
-Follow this link, , to use the NoteTakerExpress application via the web.
+Follow this link, https://notetaker-express-2.onrender.com/, to use the NoteTakerExpress application via the web.
 
 ## Credits
 
